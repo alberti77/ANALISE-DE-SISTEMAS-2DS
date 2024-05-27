@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T12:45:56.606Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.4.9" etag="dRaBY3s0wpIC7_XKhlXg" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T13:43:10.630Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="kMzO3dkLW6Gohzv8lxzr" version="24.4.9" type="github">
   <diagram name="Página-1" id="GQ9tY2Y63L0xvDBAilXe">
-    <mxGraphModel>
+    <mxGraphModel dx="1590" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="-30" width="420" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-18" value="&lt;h2&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Garamond&quot;&gt;&lt;b&gt;CLINICA MÉDICA&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;/h2&gt;" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontColor=default;labelBackgroundColor=default;labelBorderColor=default;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry x="1" y="332" width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="119.41" as="sourcePoint" />
+            <mxPoint x="150" y="119.41" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="310" y="212" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfxriTIOvGwkCDUf5tcP-20" target="nfxriTIOvGwkCDUf5tcP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-20" value="&lt;div&gt;Paciente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfxriTIOvGwkCDUf5tcP-21" target="nfxriTIOvGwkCDUf5tcP-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="310" />
+              <mxPoint x="240" y="150" />
+              <mxPoint x="460" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-21" value="&lt;div&gt;Recepcionista&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfxriTIOvGwkCDUf5tcP-22" target="nfxriTIOvGwkCDUf5tcP-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-22" value="Médico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="260" as="sourcePoint" />
+            <mxPoint x="460" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-31" value="&lt;div&gt;Include&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-35" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.003;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nfxriTIOvGwkCDUf5tcP-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="60" as="sourcePoint" />
+            <mxPoint x="700" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-38" value="Agenda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-39" value="Consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nfxriTIOvGwkCDUf5tcP-40" value="Preescreve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
